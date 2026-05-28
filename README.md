@@ -34,7 +34,7 @@
 - 🌱 Currently improving my skills in Spring Boot & scalable backend systems
 - 💻 Building real-world projects using Java, REST APIs, MySQL & JPA
 - 🔥 Focused on clean architecture, problem-solving & modern development practices
-- 🏢 Currently working on **Employee Management System (EMS)** — Spring Boot + REST APIs
+- 🏢 Currently building **Employee Management System (EMS)** — Spring Boot + REST APIs
 - ⚡ Hobbies :- Watching Web Series & playing games
 
 ###
@@ -95,8 +95,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KannamSrujan&show_icons=true&theme=dracula&count_private=true&hide_border=false&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KannamSrujan&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KannamSrujan&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KannamSrujan&layout=compact&theme=dracula&hide_border=false&langs_count=6" height="150" alt="languages graph" />
 </div>
 
 ###
